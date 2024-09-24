@@ -1,0 +1,2 @@
+import ZXBB
+ZXBB.menu()
